@@ -53,7 +53,7 @@ export default function App() {
       </section>
 
       <footer className="text-center pt-10 border-t mt-12">
-        <p className="text-sm text-gray-500 mt-4">&copy; {new Date().getFullYear()} Firstname Lastname, PhD. All rights reserved.</p>
+        <p className="text-sm text-gray-500 mt-4">&copy; {new Date().getFullYear()} Adrian Hase, PhD. All rights reserved.</p>
       </footer>
     </main>
   );
